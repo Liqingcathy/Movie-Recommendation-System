@@ -1,1 +1,2 @@
 # Java-Programming-Build-a-Recommendation-System
+This is a Movie Recommendation System used Java Object-Oriented Programming, Java Data Structures to recommend movies based on your own ratings to different movies. 
