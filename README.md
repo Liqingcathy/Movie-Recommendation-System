@@ -10,6 +10,6 @@ directors, minutes, years released, and combined filters like get similar rating
 - Java Data Structure
 - Software Design
 
-## Capstone Recommender Results from Duke University
+## Capstone Recommender Results from Coursera Duke University
 <img width="1309" alt="Screen Shot 2021-06-22 at 4 27 07 PM" src="https://user-images.githubusercontent.com/53241017/123012937-0d715700-d378-11eb-9870-b538c8bb7d82.png">
 
