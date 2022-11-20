@@ -1,13 +1,13 @@
 # Movie Recommendation System
 
-This is a Movie Recommendation System used Java object-oriented design and programming and Java data structures to have users rate movies and 
+This is a Movie Recommendation System used Java object-oriented design and programming and data structures to have users rate movies and 
 get movie recommendations based on similar and weighted average ratings. This program implemented various interfaces to filter movies by genre,
 directors, minutes, years released, and combined filters like get similar ratings by director and minutes, by genre and year and so on. 
 
-## Technologies Used: 
+## Concepts Used: 
 - Java OOP
-- Java Interface
-- Java Data Structure
+- Java Class, Interface
+- Data Structures
 - Software Design
 
 ## Capstone Recommender Results from Coursera Duke University
