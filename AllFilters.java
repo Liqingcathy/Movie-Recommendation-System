@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 /*
- * Given class- Now use the AllFilters class to combine asking questions about average ratings by genre
+ * Combines asking questions about average ratings by genre
  * and films on or after a particular year. 
  */
 public class AllFilters implements Filter {
