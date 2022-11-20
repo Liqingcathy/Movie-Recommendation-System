@@ -1,14 +1,9 @@
 import java.io.*;
-/**
- * Write a description of Main here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class Main {
     public static void main(String[] args) {
     /*
-        //Week1
+       //Week1
     FirstRatings fr = new FirstRatings();
     File file = new File("/Users/liqingli/Desktop/转码/4.Project/data/ratedmoviesfull.csv");   
    
