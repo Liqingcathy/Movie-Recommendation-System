@@ -46,10 +46,11 @@ public void printAverageRatings(){
         }
     }
     
-
-//creates a new FourthRatings object, reads data into the MovieDatabase and RaterDatabase, 
-//and then calls getSimilarRatings​for a particular rater ID, a number for the top number of similar raters, 
-//and a number of minimal rateSimilarRatings,​and then lists recommended movies and their similarity ratings. 
+/*
+ * Creates a new FourthRatings object, reads data into the MovieDatabase and RaterDatabase, 
+ * and then calls getSimilarRatings​for a particular rater ID, a number for the top number of similar raters, 
+ * and a number of minimal rateSimilarRatings,​and then lists recommended movies and their similarity ratings. 
+ */
  public void printSimilarRatings(){
      RaterDatabase.initialize("/Users/liqingli/Desktop/转码/4.Project/data/ratings.csv");
      MovieDatabase.initialize("/Users/liqingli/Desktop/转码/4.Project/data/ratedmoviesfull.csv");
