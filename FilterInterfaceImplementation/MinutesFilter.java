@@ -1,11 +1,8 @@
 
 /**
- * Creates a new class named MinutesFilter​that implements Filter.
- *  Its​satisfies method should return true if a movie’s running time is 
- *  at least min​minutes and no more than m​ax​minutes.
+ *  Its satisfies method should return true if a movie’s running time is 
+ *  at least min minutes and no more than max minutes.
  * 
- * @author (your name) 
- * @version (a version number or a date)
  */
 public class MinutesFilter implements Filter{
    private int minMin;
